@@ -1,2 +1,2 @@
 # Machine-Learning
-Projetos com Machine-Learning
+Projetos de introdução a Machine Learning.
